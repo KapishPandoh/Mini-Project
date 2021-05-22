@@ -1,0 +1,2 @@
+In this project we are going to check fake news from the dataset and reveal their reality. 
+We will be analysing the information propagation using models in computer science and provide efficient solution for that information.  
