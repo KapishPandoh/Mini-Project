@@ -1,0 +1,8 @@
+# Age and Gender Prediction using CNN
+
+Deep Learning has found huge applications in the fields of Computer vision. 
+Some of the most important applications of computer vision are in the fields that deal with facial data. 
+Face Detection and recognition are being widely used in security-based applications
+The motivation behind this is to build an application for age and gender classification using a model that is suitable for real life predictions. 
+Many models are focusing on datasets with constrained faces and are not suitable for in-the-wild estimation. 
+In this we will focus on deep learning end-to-end methods.
