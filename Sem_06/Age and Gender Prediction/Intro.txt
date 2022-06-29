@@ -1,5 +1,0 @@
-# Age and Gender Prediction using CNN
-
-Age and gender, two key facial attributes, play a really foundational role in social interactions, 
-making age and gender estimation from one face image a very important task in machine learning applications, 
-like access control, human-computer interaction, law enforcement, marketing intelligence and visual surveillance
